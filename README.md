@@ -53,6 +53,16 @@ print("   Hasil : lambda s: "".join(set(s)))")
 ```
 
 ## Hasil output dari Source Code di atas
+![1](https://user-images.githubusercontent.com/73016496/100845522-f2a8c500-34af-11eb-920e-5e7829b79884.png)
+
+Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
+
+## Tugas Praktikum
+<img width="280" alt="praktikum" src="https://user-images.githubusercontent.com/73053784/100827730-02181600-3490-11eb-90df-be541b2fb339.png">
+
+## Hasil Source Code Diatas
+
+
 
 
 
