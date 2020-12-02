@@ -195,6 +195,18 @@ Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan
 * Fitur Hapus Data Nilai Mahasiswa <br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama veronika
+![D](https://user-images.githubusercontent.com/73016496/100895005-ad0bec80-34ef-11eb-9247-0cd020e10af6.png)
+
+
+* Fitur Keluar Aplikasi <br>
+
+
+
+## Flowchart
+<img width="408" alt="100194684-b8c44580-2f28-11eb-85c2-8195000946e1" src="https://user-images.githubusercontent.com/73010098/100850520-7ebdeb00-34b6-11eb-8ed5-a9d6c31c5e2f.png">
+
+## Author Veronika Desna Ernayanti Fau - 312010333
+
 
 
 
