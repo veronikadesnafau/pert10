@@ -195,6 +195,7 @@ Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan
 * Fitur Hapus Data Nilai Mahasiswa <br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama veronika
+
 ![D](https://user-images.githubusercontent.com/73016496/100895005-ad0bec80-34ef-11eb-9247-0cd020e10af6.png)
 
 
