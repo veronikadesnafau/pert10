@@ -181,7 +181,15 @@ System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada piliha
 Inilah tampilan fitur Lihat Data :
 ![A](https://user-images.githubusercontent.com/73016496/100894938-9c5b7680-34ef-11eb-818b-ae122f9c90c6.png)
 
+
    * Menambahkan Data <br>
+   ![B](https://user-images.githubusercontent.com/73016496/100894960-a2515780-34ef-11eb-95bf-696c7458f8a0.png)
+
+
+   * ubah data <br> 
+Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
+Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama Ery , Maka akan muncul tampilan seperti ini :
+
 
    
    
