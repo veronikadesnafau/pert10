@@ -167,14 +167,21 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
    Terdapat 5 Pilihan menu, yaitu :
 
    1 Lihat Data
+   
    2 Tambah Data
+   
    3 Ubah Data
+   
    4 Hapus Data
+   
    0 Keluar Aplikasi
    
    * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
+![A](https://user-images.githubusercontent.com/73016496/100894938-9c5b7680-34ef-11eb-818b-ae122f9c90c6.png)
+
+   * Menambahkan Data <br>
 
    
    
