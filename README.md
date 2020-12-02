@@ -199,6 +199,7 @@ Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nam
 
 
 * Fitur Keluar Aplikasi <br>
+![E](https://user-images.githubusercontent.com/73016496/100895037-b5642780-34ef-11eb-9fec-eeb1d218e68b.png)
 
 
 
