@@ -188,7 +188,15 @@ Inilah tampilan fitur Lihat Data :
 
    * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
-Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama Ery , Maka akan muncul tampilan seperti ini :
+Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama veronika , Maka akan muncul tampilan seperti ini :
+![C](https://user-images.githubusercontent.com/73016496/100894984-a7aea200-34ef-11eb-8f8b-9865c5c192ff.png)
+
+
+* Fitur Hapus Data Nilai Mahasiswa <br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
+Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama veronika
+
+
 
 
    
