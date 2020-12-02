@@ -1,17 +1,18 @@
 # TUGAS PERTEMUAN KE 10
-**Nama	   	: Ery Shandy** <br>
-**Nim	  	  : 312010201** <br>
+**Nama	   	: Veronika Desna Ernayanti Fau** <br>
+**Nim	  	: 312010333** <br>
 **Kelas	  	: TI.20.A2** <br>
-**Matkul	  : Bahasa Pemrograman** <br>
+**Matkul    : Bahasa Pemrograman** <br>
 
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](gambar/soallatihan.PNG)
+<img width="291" alt="latihan" src="https://user-images.githubusercontent.com/73053784/100827099-85386c80-348e-11eb-8a14-057948b8d125.png">
 
 
 ## Hasil Source Code Diatas
-#Veronikadesnafau
+```python
+#veronikadesnafau
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
@@ -48,4 +49,10 @@ lambda s: "".join(set(s))
 print("________________________________________")
 print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("   Hasil : lambda s: "".join(set(s)))")
+
+```
+
+## Hasil output dari Source Code di atas
+
+
 
